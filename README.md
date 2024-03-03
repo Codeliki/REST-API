@@ -1,4 +1,4 @@
-REST API
+REST API<br>
 Built a REST API using NodeJS, Express and PostgreSQL. 
 
 In this repo, you'll find:
